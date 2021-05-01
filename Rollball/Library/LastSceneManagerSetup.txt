@@ -1,4 +1,0 @@
-sceneSetups:
-- path: G:/my games/Space Shooter/Assets/_scenes/Main.unity
-  isLoaded: 1
-  isActive: 1
